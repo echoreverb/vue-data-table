@@ -75,6 +75,7 @@ $ npm run build
 ]
 
 ```
+- количество записей, отображаемых на странице, хранится в свойстве data компонента DataTable.vue;
 - :columnsProp="columns", где columns - массив, содержащий объект: name - имя столбца, dataProp - соответствующий ключ в элементе массива records, например:
 ```
 [
@@ -88,4 +89,4 @@ $ npm run build
 Для изменения полей отображения попапа необходимо изменить данные в массиве popupFields (аналогично columns).
 <br />
 <br />
-URL источника данных хранится в переменной DATA_API_URL в файле config/index.js.# vue-data-table
+URL источника данных хранится в переменной DATA_API_URL в файле config/index.js.
