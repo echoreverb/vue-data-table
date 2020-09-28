@@ -119,7 +119,7 @@ export default {
       recordsBuffer: [],
       columnHeadings: this.columnsProp,
       longestStrings: [],
-      recordsPerPage: 5,
+      recordsPerPage: 15,
       indexFrom: 0,
       search: '',
       error: '',

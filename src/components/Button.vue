@@ -20,7 +20,7 @@ export default {
 .button {
   display: flex;
   align-items: center;
-  min-width: 120px;
+  min-width: 210px;
   justify-content: center;
   height: 100%;
   font-family: Arial, Helvetica, sans-serif;
@@ -32,7 +32,6 @@ export default {
   /* border-radius: 50px; */
   font-size: 14px;
   cursor: pointer;
-  padding: 18px;
   margin-left: 10px;
   box-sizing: border-box;
 }
