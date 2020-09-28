@@ -32,7 +32,6 @@ export default {
   /* border-radius: 50px; */
   font-size: 14px;
   cursor: pointer;
-  padding: 18px;
   margin-left: 10px;
   box-sizing: border-box;
 }
