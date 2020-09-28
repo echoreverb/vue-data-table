@@ -7,8 +7,8 @@
 
 ## Ссылки
 
-- Исходный код: https://github.com/echoreverb/vue-data-table
-- Деплой (данные из jsonplaceholder.typicode/posts): https://github.com/echoreverb/vue-data-table
+- Исходный код (данные из filltext.com): https://github.com/echoreverb/vue-data-table
+- Деплой (данные из jsonplaceholder.typicode/posts): https://echoreverb.github.io/vue-data-table
 
 ## Установка
 
